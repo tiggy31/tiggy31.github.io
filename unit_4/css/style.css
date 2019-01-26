@@ -1,3 +1,7 @@
+			<style>
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+</style>
+
 body {
 	background: rgb(200,200,200);
 	font-family: Arial, verdana, Sans-Serif;
@@ -23,6 +27,7 @@ h1{
 		font-family: Arial, verdana, Sans-Serif;
 		color: #665544
 		text-align: center;
+		font-family: 'Shadows Into Light', cursive;
 	}
 h2{
 	background-color: ee2e80; }
